@@ -4,15 +4,8 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-/**
- * Unit test for simple App.
- */
 public class AppTest {
-
-    /**
-     * Rigorous Test :-)
-     */
-
+    
     @Test
     public void testSqrt4() {
         Sqrt sqrt = new Sqrt(4.0);
